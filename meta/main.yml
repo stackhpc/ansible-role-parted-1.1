@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Ansible
+  description: >
+    Clone of the ansible parted module shipped with ansible 2.4, for use with
+    ansible < 2.4
+  company: StackHPC Ltd
+  license: Apache2
+  min_ansible_version: 2.0
+  platforms:
+    - name: EL
+      versions:
+        - 7
+  galaxy_tags:
+    - system
+    - parted
