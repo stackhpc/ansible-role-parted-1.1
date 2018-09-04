@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  # role_name: parted_1_1
   author: Ansible
   description: >
     Clone of the ansible parted module shipped with ansible 2.4, for use with
